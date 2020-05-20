@@ -9,7 +9,7 @@ Gives info on animals
   <body>
     <h1>Animal Facts
     </h1>
-    <h2>elephants</h2>
+    <h2>Elephants</h2>
     <p>Elephants are mammals of the family Elephantidae and are the largest existing land animals.
     Three species are currently recognised:the African Bush Ekephant, the African Forest Ekephant, and the Asian Elephant.<strong>Elephantidae</strong> is the only surviving family of the order <em>Proboscidea</em> ( ˌprɒbəˈsɪdɪə );extinct members include the mastodons</p>
  <p>Length:Asian elephant:5.5 - 6.5 m</p> 
