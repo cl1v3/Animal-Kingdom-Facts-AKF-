@@ -29,7 +29,16 @@ Gives info on animals
         <p>Height: 70 – 120 cm (Adult, At Shoulder)</p>
         <p>Mass: Male: 90 – 310 kg (Adult), Female: 65 – 170 kg (Adult)</p>
         <p>Diet: Carnivore</p>
-  
-  </head>
+        <h2>Lion</h2>
+        <p>The lion is a species in the family <em>Felidae;</em> it is a muscular, deep-chested cat with a short, rounded head, a reduced neck and round ears, and a hairy tuft at the end of its tail. It is sexually <strong>dimorphic;</strong> adult male lions have a prominent mane, which is the most recognisable feature of the species.</p>
+        <p>Lifespan: 10 – 14 years (Adult, In the wild)</p>
+        <p>Scientific name: Panthera leo</p>
+        <p>Speed: 80 km/h (Maximum, In Short Bursts)</p>
+        <p>Mass: Male: 190 kg (Adult), Female: 130 kg (Adult)</p>
+        <p>Diet: Carnivore</p>
+        <p>Height: Male: 1.2 m (Adult, At Shoulder), Female: 1.1 m (Adult, At Shoulder)
+</p>
+
+</head>
   </body>
 </html>
