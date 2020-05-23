@@ -5,11 +5,7 @@ Gives info on animals
         
 <html>
   <head>
-          <style>
-          .elephants{
-                  color:grey;
-                  }
-          </style>
+          
   <body>
     <h1>Animal Facts
     </h1>
