@@ -7,7 +7,7 @@ Gives info on animals
   <head>
           <style>
           .elephants{
-                  color:rgb(50,50,50);
+                  color:grey;
                   }
           </style>
   <body>
