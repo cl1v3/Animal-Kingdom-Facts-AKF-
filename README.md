@@ -5,7 +5,14 @@ Gives info on animals
         
 <html>
   <head>
-          
+          <style>
+#elephants {
+
+  color: red;
+  
+}
+</style>
+  </head> 
   <body>
     <h1>Animal Facts
     </h1>
@@ -39,6 +46,6 @@ Gives info on animals
         <p>Height: Male: 1.2 m (Adult, At Shoulder), Female: 1.1 m (Adult, At Shoulder)
 </p>
 
-</head>
+
   </body>
 </html>
